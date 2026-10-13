@@ -45,7 +45,7 @@ CodeAlpha_URLShortener/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_URLShortener.git
+git clone https://github.com/shivamsahu0108/CodeAlpha_URLShortener.git
 ```
 
 ### 2. Open the project
